@@ -2,7 +2,7 @@
 
 Este proyecto es una **galería de imágenes interactiva** creada con **JavaScript puro (Vanilla JS)**. Permite explorar imágenes mediante carruseles dinámicos con controles de navegación.
 
-**Demo en vivo**: [https://stefan-trifan.github.io/JS-galeria-de-imagenes/](https://stefan-trifan.github.io/JS-galeria-de-imagenes/)
+**Demo en vivo**: [https://stefan-trifan.github.io/js-galeria-de-imagenes/](https://stefan-trifan.github.io/js-galeria-de-imagenes/)
 
 ## Funcionalidades
 
